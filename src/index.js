@@ -10,7 +10,7 @@ import App from "./components/App";
 import Card from "./cardcomponent/index"
 import Pics from "./components/pics/components/App.js"
 import Season from "./components/season/index.js"
-import Song from "./components/song/components/App.js"
+import Song from "./components/song/index.js"
 import Widget from "./components/widget/App.js"
 const store = createStore(reducers, applyMiddleware(thunk));
 
