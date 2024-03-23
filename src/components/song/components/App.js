@@ -7,7 +7,7 @@ const App = () => {
     <div className="ui container grid">
       <div className="row">
         <div className="column eight wide">
-          asdfasf
+          <SongList />
         </div>
         <div className="column eight wide">
           <SongDetail />
